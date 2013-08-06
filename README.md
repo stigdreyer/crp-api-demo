@@ -38,7 +38,7 @@ var computations = 10;
 var trials = 1000000;
 ```
 
-Second, feel free to add your own riddle calculations to the `lib` folder. Currently there is no other way to change the console log apart from the `index.js` file.
+Second, feel free to add your own riddle calculations to the `lib` folder. Currently there is no other way to change the console log apart from doing it manually the `index.js` file.
 
 ## The riddle
 
