@@ -4,7 +4,7 @@
   "description": "Demo of the CrowdProcess demo using a Monte Carlo simulation to solve a riddle",
   "repository": {
     "type": "git",
-    "url": "git://github.com/andersjanmyr/sleep-sort.git"
+    "url": "git://github.com/stigdreyer/crp-api-demo.git"
   },
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,8 @@
   },
   "author": "Stig Dreyer",
   "dependencies": {
-    "crp-job-producer-client": "*",
-    "crp-job-client": "*",
+    "crp-task-producer-client": "*",
+    "crp-task-client": "*",
     "crp-auth-client": "*"
   }
 }
